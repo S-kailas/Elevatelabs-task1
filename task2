@@ -1,0 +1,20 @@
+TASK-2
+Analyzing Phising emails 
+By reviewing 4-5 phising mails that I got from the internet
+     1. https://www.hooksecurity.co/phishing-examples/microsoft-phishing-example
+     2. https://www.hooksecurity.co/phishing-examples/linkedin-phishing-example
+     3. https://www.hooksecurity.co/phishing-examples/github-phishing-example
+     4. https://www.hooksecurity.co/phishing-examples/fedex-phishing-example
+     5. https://www.hooksecurity.co/phishing-examples/google-phishing-example
+I understood some main things
+     1. The content of phishing mails are mainly of two types:
+                a) Threatening
+                      eg; Your packaged items will be canclled, Someone signed into your account Immediatly sigin here etc 
+                b)  Urgency 
+                      eg: Sigin fastt to gain offers etc
+Somehow to prevent us from getting trapped into it is understand a very basic thing: All these phishing things are leading to get the power that you only have 
+                                         for example : Signing into the page that a attacker had made;Giving the power that you only have(Your account access)
+So double check the mails,calls,etc 
+There is also another thing I have found: The emails will be  very sus that we can see in this demo instead of support@github.com in phishing mails we can see github@companysupport.com
+
+These are my findings  
